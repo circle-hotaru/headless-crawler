@@ -1,0 +1,17 @@
+{
+  "name": "headless-crawler",
+  "version": "1.0.0",
+  "description": "crawler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "circlehotarux",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^7.0.0"
+  }
+}
